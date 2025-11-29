@@ -4,4 +4,4 @@ pydantic
 python-dotenv
 requests
 huggingface_hub
-pymupdf  <-- NEW: Handles PDF-to-Image conversion
+pymupdf 
