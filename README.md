@@ -162,4 +162,4 @@ Future: Distill knowledge from Llama 70B into a smaller 8B model fine-tuned via 
 
 👨‍💻 Author
 
-[Your Name] BFHL Datathon Finalist
+Madhav Pareek 
